@@ -1,6 +1,6 @@
 {
-  "name": "react-dates",
-  "version": "21.8.0",
+  "name": "@shobhitk/react-dates-latest",
+  "version": "1.0.1",
   "description": "A responsive and accessible date range picker component built with React",
   "main": "index.js",
   "scripts": {
@@ -41,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-dates/react-dates.git"
+    "url": "git+https://github.com/shobhitk8055/react-dates.git"
   },
   "author": "Maja Wichrowska <maja.wichrowska@airbnb.com>",
   "license": "MIT",
@@ -120,6 +120,7 @@
     "enzyme-shallow-equal": "^1.0.4",
     "is-touch-device": "^1.0.1",
     "lodash": "^4.1.1",
+    "node-sass": "^9.0.0",
     "object.assign": "^4.1.2",
     "object.values": "^1.1.5",
     "prop-types": "^15.7.2",
